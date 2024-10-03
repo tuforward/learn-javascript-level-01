@@ -21,3 +21,7 @@ let vidu_03 = dienTichHinhNon(15, 6);
 console.log(vidu_01);
 console.log(vidu_02);
 console.log(vidu_03);
+
+let str = "       GIANG TRUONG      ";
+
+console.log(str.trim().length);
