@@ -816,10 +816,6 @@ matchHouses(87) ➞ 436
 ### Câu 37: Sum of Cubes (Tổng các khối lập phương)
 - Đề bài:   Tạo một hàm nhận vào một mảng các số và trả về tổng của các lập phương của chúng.
 
-<img src="36.hinhhoc.png">
-
--   Tạo một hàm nhận vào một số n (số ngôi nhà) và trả về số lượng que diêm cần thiết để xây lên n ngôi nhà đó. Xem ngôi nhà 1, 2 và 3 trong hình ảnh ở trên.
-
 **VÍ DỤ**
 ```javascript
 sumOfCubes([1, 5, 9]) ➞ 855
@@ -845,8 +841,6 @@ numbersSum([true, false, "123", "75"]) ➞ 0
 
 numbersSum([1, 2, 3, 4, 5, true]) ➞ 15
 ```
-
-**GHI CHÚ** Nếu cho một mảng trống, trả về 0.
 
 ### Câu 39: Số lớn nhất
 - Đề bài:   Tạo một hàm nhận vào hai đối số là một số n vả một mảng các số array, và trả về một mảng n số lớn nhất từ mảng đầu vào.
