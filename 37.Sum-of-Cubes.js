@@ -29,6 +29,7 @@ console.log(vidu_01);
 console.log(vidu_02);
 console.log(vidu_03);
 console.log(vidu_04);
+
 /** 
 *    sumOfCubes([1, 5, 9]) ➞ 855
     // Vì 1^3 + 5^3 + 9^3 = 1 + 125 + 729 = 855
